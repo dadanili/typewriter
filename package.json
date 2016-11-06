@@ -1,6 +1,6 @@
 {
   "name": "type-text",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "This lightweight module turns your static text into dynamic transformations on the screen. Each letter appears sequentially followed by a pipe character as if the text is currently being typed by a typewriter! ",
   "main": "index.js",
   "scripts": {
