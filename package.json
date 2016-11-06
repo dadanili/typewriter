@@ -1,0 +1,19 @@
+{
+  "name": "typewriter",
+  "version": "1.0.0",
+  "description": "This lightweight module turns your static text into dynamic transformations on the screen. Each letter appears sequentially followed by a pipe character as if the text is currently being typed by a typewriter! ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dadanili/typewriter.git"
+  },
+  "author": "Dani Li <yli523@gmail.com> (www.linkedin.com/in/daniyidanli)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dadanili/typewriter/issues"
+  },
+  "homepage": "https://github.com/dadanili/typewriter#readme"
+}
