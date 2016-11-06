@@ -1,4 +1,4 @@
-var type = function(text1, node, speed) {
+var typetext = function(text1, node, speed) {
 	var context = this;
   node.textContent = '|';
   speed = speed || 100;
@@ -24,4 +24,4 @@ var type = function(text1, node, speed) {
 
 }
 
-module.exports = type;
+module.exports = typetext;
